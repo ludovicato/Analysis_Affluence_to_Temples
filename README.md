@@ -8,9 +8,17 @@ I also need to specify, the information is not historically or culturally accura
 <br>
 
 ## Database description<br>
-My database tracked informations about invoice exchanges between blacksmiths and suppliers. As it can be seen in the following image, the database has three main section: one identifies the blacksmith, one identifies the supplier, and one gives information on each invoice in terms of id, date and cost.<br>
+My database tracked informations about every visit to the temples we followed. It was split in 4 tables, as reported in the following image:
 
-<img width="1151" alt="Screenshot 2023-02-16 at 10 11 44" src="https://user-images.githubusercontent.com/119680854/219320638-53fba153-876e-478f-a71e-eeeb11830774.png">
+tracked informations about invoice exchanges between blacksmiths and suppliers. As it can be seen in the following image, the database has three main section: one identifies the blacksmith, one identifies the supplier, and one gives information on each invoice in terms of id, date and cost.<br>
+
+![overview](https://github.com/ludovicato/Analysis_Affluence_to_Temples/assets/119680854/3629283e-14b8-4170-a000-d33c0832d0ab)
+
+
+
+
+
+
 
 ## My analysis<br>
 The purpose of my research was to analyze the invoice exchanges between blacksmiths and suppliers in order to identify trends and patterns. To achieve this, I first had to clean and prepare the data, which was a challenging task due to its large size and formatting issues. Once the data was ready, I analyzed the number of invoices and total amount produced in various regions and over time, as well as the strength and scale of the suppliers involved. I also mapped out the main center of activity by joining the data with a database of provincial coordinates. To gain a better understanding of the national and regional blacksmith market, I then proceeded to join the data with a database of all blacksmiths and calculated the percentage that we were monitoring. <br>
