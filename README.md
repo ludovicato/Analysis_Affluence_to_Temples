@@ -21,12 +21,17 @@ My database tracked informations about every visit to the temples we followed. I
 ## My analysis<br>
 The purpose of my research was to analyze the invoice exchanges between blacksmiths and suppliers in order to identify trends and patterns. To achieve this, I first had to clean and prepare the data, which was a challenging task due to its large size and formatting issues. Once the data was ready, I analyzed the number of invoices and total amount produced in various regions and over time, as well as the strength and scale of the suppliers involved. I also mapped out the main center of activity by joining the data with a database of provincial coordinates. To gain a better understanding of the national and regional blacksmith market, I then proceeded to join the data with a database of all blacksmiths and calculated the percentage that we were monitoring. <br>
 
+![map1](https://github.com/ludovicato/Analysis_Affluence_to_Temples/assets/119680854/43d805bb-581f-48a5-a320-ee4075b35f04)
+
+
 For this analysis, I primarily utilized PostgreSQL, but I also incorporated a range of other tools and platforms, including the BI tool Looker Studio, Microsoft Excel, Microsoft PowerPoint, and even Adobe Photoshop to create a more personalized look for my presentation. Additionally, I even employed ChatGPT to aid in certain aspects of the project.<br>
 
 Displayed below is an example of the graphic elements included in the presentation, which illustrate the distribution of invoices produced in each region.
 
 
 ![Screenshot 2023-05-09 at 14 10 36](https://github.com/ludovicato/Analysis_Affluence_to_Temples/assets/119680854/6ae18a2e-80ef-4f2f-bd48-e906aefe1157)
+
+
 
 
 My future plans for this research include repeating these analyses on data from the previous two years and making predictions for the following year. I will then proceed to confront the prediction to the actual data of the following year, which I have already aquired, to test its accuracy and, if the results will be positive, I will incorporate that year as well to generate predictions for the year after. <br>
