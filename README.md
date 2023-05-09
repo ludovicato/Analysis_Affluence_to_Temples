@@ -8,12 +8,7 @@ I also need to specify, the information is not historically or culturally accura
 <br>
 
 ## Database description<br>
-My database tracked informations about every visit to the temples we followed. It was split in 4 tables, as reported in the following image: the two main tables gave us informations respectively on every single visit and on every single temple, while of the minor two one helped us with geographical analysis, using the cities to have a wider view by region, and the other helped us analysing which gods were more sought after.
-
-
-My database contains information on every visit to the temples we follow, divided into four tables (as shown in the following image). The two primary tables provide details on individual visits and temples, respectively. Meanwhile, the two secondary tables serve different purposes: one allows us to analyze the data geographically by city and region, while the other helps us identify which gods are most popular among visitors.
-
-tracked informations about invoice exchanges between blacksmiths and suppliers. As it can be seen in the following image, the database has three main section: one identifies the blacksmith, one identifies the supplier, and one gives information on each invoice in terms of id, date and cost.<br>
+My database tracked informations about every visit to the temples we followed. It was split in 4 tables, as reported in the following image: the two main tables gave us informations respectively on every single visit and on every single temple, while of the minor two one helped us with geographical analysis, using the cities to have a wider view by region, and the other helped us analysing which gods were more sought after.<br>
 
 ![overview](https://github.com/ludovicato/Analysis_Affluence_to_Temples/assets/119680854/d6f0f7b7-6b5e-4a21-b925-7b8f7f94ce62)
 
