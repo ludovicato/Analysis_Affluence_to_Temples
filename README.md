@@ -27,7 +27,9 @@ For this analysis, I primarily utilized PostgreSQL, but I also incorporated a ra
 
 Displayed below is an example of the graphic elements included in the presentation, which illustrate the distribution of invoices produced in each region.
 
-<img width="1146" alt="preview" src="https://user-images.githubusercontent.com/119680854/219099204-d3488f4c-0343-43a5-923c-bb7ce21d77ca.png">
+
+![Screenshot 2023-05-09 at 14 10 36](https://github.com/ludovicato/Analysis_Affluence_to_Temples/assets/119680854/6ae18a2e-80ef-4f2f-bd48-e906aefe1157)
+
 
 My future plans for this research include repeating these analyses on data from the previous two years and making predictions for the following year. I will then proceed to confront the prediction to the actual data of the following year, which I have already aquired, to test its accuracy and, if the results will be positive, I will incorporate that year as well to generate predictions for the year after. <br>
 I also intend to acquire and analyze the content of the invoices to categorize the suppliers and gain further insights into the blacksmith-supplier relationship. <br>
