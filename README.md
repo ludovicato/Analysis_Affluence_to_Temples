@@ -8,7 +8,7 @@ I also need to specify, the information is not historically or culturally accura
 <br>
 
 ## Database description<br>
-My database tracked informations about every visit to the temples we followed. It was split in 4 tables, as reported in the following image: the two main tables gave us informations respectively on every single visit and on every single temple, while of the minor two one helped us with geographical analysis, using the cities to have a wider view by region, and the other helped us analysing which gods were more sought after.<br>
+My database tracked informations about every visit to the temples we followed. It was split in 4 tables, as reported in the following image: the two main tables gave us informations respectively on every single visit and on every single temple, while of the minor two one helped us with geographical analysis, using the cities to have a wider view by region, and the other gave us informations on which gods were worshipped in which temples.<br>
 
 ![overview](https://github.com/ludovicato/Analysis_Affluence_to_Temples/assets/119680854/d6f0f7b7-6b5e-4a21-b925-7b8f7f94ce62)
 
@@ -20,6 +20,10 @@ My database tracked informations about every visit to the temples we followed. I
 
 ## My analysis<br>
 The purpose of my research was to analyze the invoice exchanges between blacksmiths and suppliers in order to identify trends and patterns. To achieve this, I first had to clean and prepare the data, which was a challenging task due to its large size and formatting issues. Once the data was ready, I analyzed the number of invoices and total amount produced in various regions and over time, as well as the strength and scale of the suppliers involved. I also mapped out the main center of activity by joining the data with a database of provincial coordinates. To gain a better understanding of the national and regional blacksmith market, I then proceeded to join the data with a database of all blacksmiths and calculated the percentage that we were monitoring. <br>
+
+
+I was given this database with the simple task of 'gathering as much informations as possible
+
 
 ![map1](https://github.com/ludovicato/Analysis_Affluence_to_Temples/assets/119680854/43d805bb-581f-48a5-a320-ee4075b35f04)
 
