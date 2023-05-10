@@ -13,33 +13,24 @@ My database tracked informations about every visit to the temples we followed. I
 ![overview](https://github.com/ludovicato/Analysis_Affluence_to_Temples/assets/119680854/d6f0f7b7-6b5e-4a21-b925-7b8f7f94ce62)
 
 
-
-
-
-
-
 ## My analysis<br>
-The purpose of my research was to analyze the invoice exchanges between blacksmiths and suppliers in order to identify trends and patterns. To achieve this, I first had to clean and prepare the data, which was a challenging task due to its large size and formatting issues. Once the data was ready, I analyzed the number of invoices and total amount produced in various regions and over time, as well as the strength and scale of the suppliers involved. I also mapped out the main center of activity by joining the data with a database of provincial coordinates. To gain a better understanding of the national and regional blacksmith market, I then proceeded to join the data with a database of all blacksmiths and calculated the percentage that we were monitoring. <br>
+I was enthrusted this database for analysis without a specific goal in mind: my only direction was to see if I could find any 'useful information' in it. Given that my company was responsible for marketing the temples included in the database, I focused my efforts on uncovering information that could inform our advertising strategies for the upcoming year, here I'll report the highlights of my research.
 
-
-I was given this database with the simple task of 'gathering as much informations as possible
-
+One of the most interesting findings of the analysis was the geolocalization of visitors, which allowed for mapping out the places that were most visited as well as where our visitors came from. A map of the origin cities of all the visitors is shown in the following image, along with the top 10 cities and the distribution in percentage of visitors coming from the North, South, and Islands. 
 
 ![map1](https://github.com/ludovicato/Analysis_Affluence_to_Temples/assets/119680854/43d805bb-581f-48a5-a320-ee4075b35f04)
 
-
-For this analysis, I primarily utilized PostgreSQL, but I also incorporated a range of other tools and platforms, including the BI tool Looker Studio, Microsoft Excel, Microsoft PowerPoint, and even Adobe Photoshop to create a more personalized look for my presentation. Additionally, I even employed ChatGPT to aid in certain aspects of the project.<br>
-
-Displayed below is an example of the graphic elements included in the presentation, which illustrate the distribution of invoices produced in each region.
-
+One of the most interesting findings related to temples offering an oracle service. By analyzing the regions where oracles were most popular, I was able to identify areas where a high percentage of visitors came specifically for oracle services. This information could be invaluable for marketing purposes, as it provides insight into which regions may be most receptive to advertising efforts.
 
 ![Screenshot 2023-05-09 at 14 10 36](https://github.com/ludovicato/Analysis_Affluence_to_Temples/assets/119680854/6ae18a2e-80ef-4f2f-bd48-e906aefe1157)
 
+In addition to my geolocalization analysis, I also connected each temple in our database to the cult of one or more deities. By examining the number of temples and worshippers for each deity, I was able to gain a deeper understanding of visitor preferences and behavior. Notably, while Zeus had the highest overall number of visits, his average number of worshippers was among the lowest. This information could be used to target advertising efforts towards other deities with higher average numbers of worshippers, potentially increasing visitor traffic and revenue.
 
+![Presentazione dati Lumsa-1](https://github.com/ludovicato/Analysis_Affluence_to_Temples/assets/119680854/5c78507e-2143-4ae1-8cd0-dd2fc0b64044)
 
+Overall, my approach to the analysis was to be open-minded and to let the data guide my exploration, with a focus on uncovering information that could help us better market our temples. By taking this approach, I was able to gain a comprehensive understanding of the dataset and generate insights that could be leveraged to drive our marketing efforts in the future.
 
-My future plans for this research include repeating these analyses on data from the previous two years and making predictions for the following year. I will then proceed to confront the prediction to the actual data of the following year, which I have already aquired, to test its accuracy and, if the results will be positive, I will incorporate that year as well to generate predictions for the year after. <br>
-I also intend to acquire and analyze the content of the invoices to categorize the suppliers and gain further insights into the blacksmith-supplier relationship. <br>
+To conduct my analysis, I utilized a range of tools and platforms, including SQL, Tableau, Excel, and Microsoft Word. Additionally, I leveraged Power Point to develop an effective presentation that could clearly convey my findings. Given the sensitive nature of the data and the need to maintain confidentiality, I also employed Adobe Photoshop to carefully manipulate the visualizations in order to obscure the true nature of the data. This allowed me to present my findings in a way that was both informative and respectful of the need for privacy and discretion.
 
 
 ## Highlights<br>
