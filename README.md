@@ -36,12 +36,11 @@ To conduct my analysis, I utilized a range of tools and platforms, including SQL
 ## Highlights<br>
 Here, you can find some of the key highlights of the code I use and view examples of the results. To explore the rest of the code, you can access it from this [link](https://github.com/ludovicato/SQL_Analysis_Blacksmiths_in_Westeros/blob/92cffb3e584766b9728a88922ca8091d0241c7c5/main_queries.sql) or check the other documents in this repository. 
 
-![1](https://user-images.githubusercontent.com/119680854/219635907-d65680dd-7646-4275-a0a5-7e74dd385c29.png)
+![Slide1](https://github.com/ludovicato/Analysis_Affluence_to_Temples/assets/119680854/6fac6f61-0880-4992-ae34-e314a0a2fe03)
+![Slide4](https://github.com/ludovicato/Analysis_Affluence_to_Temples/assets/119680854/5bc98a39-7274-460e-ad17-54ecb60ec7e4)
+![Slide2](https://github.com/ludovicato/Analysis_Affluence_to_Temples/assets/119680854/fb44a678-1784-4c65-bb5b-1719cc920346)
+![Slide5](https://github.com/ludovicato/Analysis_Affluence_to_Temples/assets/119680854/e5c76d32-65fd-4132-9d50-80e7648c2f38)
+![Slide3](https://github.com/ludovicato/Analysis_Affluence_to_Temples/assets/119680854/067d1197-75f9-4940-b9d7-13aae7ac5ff7)
+![Slide6](https://github.com/ludovicato/Analysis_Affluence_to_Temples/assets/119680854/3272f223-3c89-49e8-a70d-fcb061433909)
+![Slide7](https://github.com/ludovicato/Analysis_Affluence_to_Temples/assets/119680854/4417cb11-20fa-41f9-9d18-7c14f457f948)
 
-![2](https://user-images.githubusercontent.com/119680854/219635949-65be1515-bc98-4477-b0bb-5c55636994ed.png)
-
-![3](https://user-images.githubusercontent.com/119680854/219635993-1187b711-6e6e-47a2-bd37-85ac6613c530.png)
-
-![5](https://user-images.githubusercontent.com/119680854/219636027-3cb85d07-2002-4a4e-a52b-569848a3a407.png)
-
-![6](https://user-images.githubusercontent.com/119680854/219636052-16bac4a7-0987-4a5f-9d75-568aab607966.png)
