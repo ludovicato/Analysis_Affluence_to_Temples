@@ -10,7 +10,7 @@ I also need to specify, the information is not historically or culturally accura
 ## Database description<br>
 My database tracked informations about every visit to the temples we followed. It was split in 4 tables, as reported in the following image: the two main tables gave us informations respectively on every single visit and on every single temple, while of the minor two one helped us with geographical analysis, using the cities to have a wider view by region, and the other gave us informations on which gods were worshipped in which temples.<br>
 
-![overview](https://github.com/ludovicato/Analysis_Affluence_to_Temples/assets/119680854/d6f0f7b7-6b5e-4a21-b925-7b8f7f94ce62)
+![overview](https://github.com/ludovicato/Analysis_Affluence_to_Temples/assets/119680854/77b005fb-4b07-4799-b48f-4701d1d639c1)
 
 
 ## My analysis<br>
@@ -18,15 +18,15 @@ I was enthrusted this database for analysis without a specific goal in mind: my 
 
 One of the most interesting findings of the analysis was the geolocalization of visitors, which allowed for mapping out the places that were most visited as well as where our visitors came from. A map of the origin cities of all the visitors is shown in the following image, along with the top 10 cities and the distribution in percentage of visitors coming from the North, South, and Islands. 
 
-![map1](https://github.com/ludovicato/Analysis_Affluence_to_Temples/assets/119680854/43d805bb-581f-48a5-a320-ee4075b35f04)
+![map1](https://github.com/ludovicato/Analysis_Affluence_to_Temples/assets/119680854/f36cc401-36fa-4174-815a-716b2c2d0082)
 
 One of the most interesting findings related to temples offering an oracle service. By analyzing the regions where oracles were most popular, I was able to identify areas where a high percentage of visitors came specifically for oracle services. This information could be invaluable for marketing purposes, as it provides insight into which regions may be most receptive to advertising efforts.
 
-![Screenshot 2023-05-09 at 14 10 36](https://github.com/ludovicato/Analysis_Affluence_to_Temples/assets/119680854/6ae18a2e-80ef-4f2f-bd48-e906aefe1157)
+![Presentazione dati Lumsa-1](https://github.com/ludovicato/Analysis_Affluence_to_Temples/assets/119680854/c4c3b213-fc86-4792-9bd9-816b57aca561)
 
 In addition to my geolocalization analysis, I also connected each temple in our database to the cult of one or more deities. By examining the number of temples and worshippers for each deity, I was able to gain a deeper understanding of visitor preferences and behavior. Notably, while Zeus had the highest overall number of visits, his average number of worshippers was among the lowest. This information could be used to target advertising efforts towards other deities with higher average numbers of worshippers, potentially increasing visitor traffic and revenue.
 
-![Presentazione dati Lumsa-1](https://github.com/ludovicato/Analysis_Affluence_to_Temples/assets/119680854/5c78507e-2143-4ae1-8cd0-dd2fc0b64044)
+![Screenshot 2023-05-09 at 14 10 36](https://github.com/ludovicato/Analysis_Affluence_to_Temples/assets/119680854/1077341a-1f52-41be-aa16-10e992133292)
 
 Overall, my approach to the analysis was to be open-minded and to let the data guide my exploration, with a focus on uncovering information that could help us better market our temples. By taking this approach, I was able to gain a comprehensive understanding of the dataset and generate insights that could be leveraged to drive our marketing efforts in the future.
 
