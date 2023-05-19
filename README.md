@@ -36,11 +36,12 @@ To conduct my analysis, I utilized a range of tools and platforms, including SQL
 ## Highlights<br>
 Here, you can find some of the key highlights of the code I use and view examples of the results. To explore the rest of the code, you can access it from this [link](https://github.com/ludovicato/SQL_Analysis_Blacksmiths_in_Westeros/blob/92cffb3e584766b9728a88922ca8091d0241c7c5/main_queries.sql) or check the other documents in this repository. 
 
-![Slide1](https://github.com/ludovicato/Analysis_Affluence_to_Temples/assets/119680854/6fac6f61-0880-4992-ae34-e314a0a2fe03)
-![Slide4](https://github.com/ludovicato/Analysis_Affluence_to_Temples/assets/119680854/5bc98a39-7274-460e-ad17-54ecb60ec7e4)
-![Slide2](https://github.com/ludovicato/Analysis_Affluence_to_Temples/assets/119680854/fb44a678-1784-4c65-bb5b-1719cc920346)
-![Slide5](https://github.com/ludovicato/Analysis_Affluence_to_Temples/assets/119680854/e5c76d32-65fd-4132-9d50-80e7648c2f38)
-![Slide3](https://github.com/ludovicato/Analysis_Affluence_to_Temples/assets/119680854/067d1197-75f9-4940-b9d7-13aae7ac5ff7)
-![Slide6](https://github.com/ludovicato/Analysis_Affluence_to_Temples/assets/119680854/3272f223-3c89-49e8-a70d-fcb061433909)
-![Slide7](https://github.com/ludovicato/Analysis_Affluence_to_Temples/assets/119680854/4417cb11-20fa-41f9-9d18-7c14f457f948)
+
+![Slide1](https://github.com/ludovicato/Analysis_Affluence_to_Temples/assets/119680854/984d7919-3d06-4563-9b59-5877dbe6aa80)
+![Slide2](https://github.com/ludovicato/Analysis_Affluence_to_Temples/assets/119680854/9489ecfb-5658-43fa-b4b1-6c4d04ae1ba6)
+![Slide3](https://github.com/ludovicato/Analysis_Affluence_to_Temples/assets/119680854/7d002283-c276-4869-8694-a94282edc668)
+![Slide4](https://github.com/ludovicato/Analysis_Affluence_to_Temples/assets/119680854/66641003-ce4a-41b1-afaa-48cb5c662849)
+![Slide5](https://github.com/ludovicato/Analysis_Affluence_to_Temples/assets/119680854/74f7c035-d749-4c55-9e6b-e9e698ed409a)
+![Slide6](https://github.com/ludovicato/Analysis_Affluence_to_Temples/assets/119680854/00ef7e57-f3ca-4777-9824-37f61c0515b7)
+![Slide7](https://github.com/ludovicato/Analysis_Affluence_to_Temples/assets/119680854/69426c3b-3c2c-4e23-bc54-0662b0de96d0)
 
