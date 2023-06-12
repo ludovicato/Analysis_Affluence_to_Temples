@@ -1,5 +1,5 @@
 ## Introduction<br>
-This is a project I worked on during my employement at Qwince.
+This is a project I worked on during my employment at Qwince.
 While I intend to showcase my code and analysis, I have chosen to maintain the confidentiality of my research by refraining from disclosing its actual subject and location. For the purposes of this presentation, I will refer to my research as
 
 > **An Analysis on affluence to ancient greek temples**
